@@ -1,5 +1,6 @@
 # YouTube-Dashboard-2023
 𝐘𝐨𝐮𝐓𝐮𝐛𝐞 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬 𝟐𝟎𝟐𝟑
+
 The data visualizations possible with Power BI on YouTube data 2023. These graphs and charts unveil trends in subscriber growth, video views, and revenue (𝐁𝐚𝐬𝐞𝐝 𝐨𝐧 𝟐𝟎𝟐𝟑 𝐝𝐚𝐭𝐚). They also provide comparisons across channels and content categories.
 Here are some key takeaways from our analysis (𝐁𝐚𝐬𝐞𝐝 𝐨𝐧 𝟐𝟎𝟐𝟑 𝐝𝐚𝐭𝐚):
 -> Entertainment reigns supreme on YouTube, with channels like T-Series and Cocomelon boasting the most subscribers.
